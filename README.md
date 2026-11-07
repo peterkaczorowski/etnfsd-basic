@@ -2,6 +2,10 @@
 
 Standalone TNFS server for FujiNet and other TNFS clients.
 
+Project Management: Piotr D. Kaczorowski
+
+Code Development: Codex
+
 ## Requirements
 
 - Erlang/OTP 26 or newer
